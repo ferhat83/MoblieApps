@@ -11,6 +11,7 @@
     <modules>
         <module>NYP</module>
         <module>GENERIC</module>
+        <module>EBAY</module>
     </modules>
     <dependencyManagement>
         <dependencies>

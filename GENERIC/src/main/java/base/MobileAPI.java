@@ -277,9 +277,17 @@ public class MobileAPI {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-    private String convertCamelCase(String words){
+        }
+        private String convertCamelCase(String words){
         return StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(words), ' ');
-    }
+        }
+        //*****************************//Spliting String Method//*****************************//
+        //Spliting String form st String
+        public static String convertToString(String st) {
+        String splitString = "";
+        splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
+        return splitString;
+         }
+
 
 }

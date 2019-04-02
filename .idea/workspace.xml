@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f5d0e8d-16b2-41fe-91f1-0775e55aa7b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GENERIC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GENERIC/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GENERIC/src/main/java/base/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/GENERIC/src/main/java/base/MobileAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GENERIC/target/GENERIC-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/GENERIC/target/GENERIC-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GENERIC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GENERIC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GENERIC/target/classes/base/MobileAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/GENERIC/target/classes/base/MobileAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/NYP/target/" />
     <ignored path="$PROJECT_DIR$/GENERIC/target/" />
+    <ignored path="$PROJECT_DIR$/EBAY/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +26,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/base/MobileAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="280" column="50" lean-forward="true" selection-start-line="280" selection-start-column="50" selection-end-line="280" selection-end-column="50" />
+            <state relative-caret-position="833">
+              <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2836#2837#0" expanded="true" />
-                <element signature="e#2866#2867#0" expanded="true" />
+                <element signature="e#3155#3156#0" expanded="true" />
+                <element signature="e#3185#3186#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/main/java/homePage/ClickOnHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NYP/src/test/java/testHomePage/TestClickOnHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EBAY/src/test/resources/EBAYTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GENERIC/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EBAY/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -53,12 +115,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NYP/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/GENERIC/pom.xml" />
         <option value="$PROJECT_DIR$/GENERIC/src/main/java/database/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/GENERIC/src/main/java/reporting/TestLogger.java" />
+        <option value="$PROJECT_DIR$/EBAY/pom.xml" />
+        <option value="$PROJECT_DIR$/NYP/pom.xml" />
+        <option value="$PROJECT_DIR$/EBAY/src/test/resources/EBAYTestRunner.xml" />
         <option value="$PROJECT_DIR$/GENERIC/src/main/java/base/MobileAPI.java" />
+        <option value="$PROJECT_DIR$/NYP/src/test/java/testHomePage/TestClickOnHomePage.java" />
+        <option value="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" />
+        <option value="$PROJECT_DIR$/NYP/src/main/java/homePage/ClickOnHomePage.java" />
       </list>
     </option>
   </component>
@@ -75,10 +142,7 @@
       <select />
     </treeState>
   </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="310" />
     <option name="width" value="1950" />
     <option name="height" value="2075" />
@@ -91,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,16 +162,90 @@
               <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="sql-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="GENERIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team10MobileApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Team10MobileApp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GENERIC/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -116,6 +253,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\EBAY\src\app" />
       <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\GENERIC\src\main\java" />
       <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\GENERIC" />
       <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\NYP\src\app" />
@@ -125,6 +263,7 @@
       <recent name="database" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\EBAY\src\test" />
       <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\NYP\src\test" />
       <recent name="C:\Users\saadi\eclipse-workspace\Team10MobileApp\GENERIC\src\test" />
     </key>
@@ -141,6 +280,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/saadi/eclipse-workspace/Team10MobileApp/NYP/src/test/resources/NYPTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYP" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/saadi/eclipse-workspace/Team10MobileApp/NYP/src/test/resources/NYPTestRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -154,11 +310,22 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_saadi_eclipse-workspace_Team10MobileApp_NYP_src_test_resources_NYPTestRunner_xml - 2019.04.02 at 17h 03m 58s.xml">
+      <configuration name="C:/Users/saadi/eclipse-workspace/Team10MobileApp/NYP/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_eclipse-workspace_Team10MobileApp_NYP_src_test_resources_NYPTestRunner_xml - 2019.04.02 at 17h 04m 55s.xml">
+      <configuration name="C:/Users/saadi/eclipse-workspace/Team10MobileApp/NYP/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_saadi_eclipse-workspace_Team10MobileApp_NYP_src_test_resources_NYPTestRunner_xml - 2019.04.02 at 17h 23m 19s.xml">
+      <configuration name="C:/Users/saadi/eclipse-workspace/Team10MobileApp/NYP/src/test/resources/NYPTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25791246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26195285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -172,9 +339,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3280116" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3280116" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32946298" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -186,20 +354,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/database/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -215,6 +369,59 @@
     <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/base/MobileAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3155#3156#0" expanded="true" />
+            <element signature="e#3185#3186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/main/java/homePage/ClickOnHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EBAY/src/test/resources/EBAYTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GENERIC/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -222,17 +429,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GENERIC/src/main/java/base/MobileAPI.java">
+    <entry file="file://$PROJECT_DIR$/EBAY/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="280" column="50" lean-forward="true" selection-start-line="280" selection-start-column="50" selection-end-line="280" selection-end-column="50" />
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYP/src/test/java/testHomePage/TestClickOnHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2836#2837#0" expanded="true" />
-            <element signature="e#2866#2867#0" expanded="true" />
           </folding>
         </state>
       </provider>

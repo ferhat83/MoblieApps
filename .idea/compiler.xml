@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GENERIC" />
+        <module name="EBAY" />
         <module name="NYP" />
       </profile>
     </annotationProcessing>
