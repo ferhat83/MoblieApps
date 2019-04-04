@@ -159,8 +159,8 @@ public class MobileAPI {
 
         }else if(OS.contains("Android")){
             if(appType.contains("Phone")){
-                appDirectory = new File("NYP/src/app");
-                findApp = new File(appDirectory,"nyp.apk");
+                appDirectory = new File("D:\\Team10MobileApp\\NYP\\src\\app\\");
+                findApp = new File(appDirectory,"NYPost.apk");
                 if(deviceType.equalsIgnoreCase("RealDevice")){
                     cap = new DesiredCapabilities();
                     cap.setCapability(MobileCapabilityType.DEVICE_NAME,deviceName);
@@ -177,7 +177,7 @@ public class MobileAPI {
                     cap.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
                     cap.setCapability(MobileCapabilityType.PLATFORM_VERSION, version);
                     cap.setCapability(MobileCapabilityType.APP, findApp.getAbsolutePath());
-                    ad = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
+                    ad = new AndroidDriver(new URL("http://0.0.0.0:4723/wd/hub"), cap);
                     ad.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
                 }
 

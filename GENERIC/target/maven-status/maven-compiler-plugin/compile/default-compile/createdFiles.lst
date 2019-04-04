@@ -1,7 +1,0 @@
-reporting\ExtentManager.class
-database\ConnectToSqlDB.class
-reporting\ExtentTestManager.class
-reporting\ApplicationLog.class
-reporting\TestLogger.class
-utility\DataReader.class
-base\MobileAPI.class

@@ -5,15 +5,18 @@
 
     <parameter name="OS" value="Android"/>
     <parameter name="appType" value="Phone"/>
-    <parameter name="deviceType" value="Emulator"/>
-    <parameter name="deviceName" value="Pixel XL"/>
-    <parameter name="version" value="8.1"/>
+    <parameter name="deviceType" value="RealDevice"/>
+    <parameter name="deviceName" value="SM-N950U"/>
+    <parameter name="version" value="8.0.0"/>
     <parameter name="moduleName" value="NYP"/>
     <parameter name="appName" value="NYPost.apk"/>
 
     <test name="GoToHomePage" preserve-order="true">
         <classes>
-            <class name="homePage.ClickOnHomePage"></class>
+<!--           <class name="testHomePage.TestClickOnHomePage"></class>-->
+<!--            <class name="tesGetTest.TestHomePageText"></class>-->
+<!--            <class name="testGetWebElement.TestHomepageElement"></class>-->
+            <class name="testgetListOfElements.TestGetListOfElements"></class>
         </classes>
     </test>
 
